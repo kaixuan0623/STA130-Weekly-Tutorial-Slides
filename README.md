@@ -1,4 +1,4 @@
-# STA130 weekly Tutorial Slides
+# STA130 Weekly Tutorial Slides
 Weekly slides for STA130 tutorial
 
 Course Website: https://ntaback.github.io/UofT_STA130/
