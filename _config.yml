@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Kaixuan Hu's Website
+github_username:  kaixuan0623
+header_pages:
+  - README.md
