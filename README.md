@@ -2,3 +2,5 @@
 Weekly slides for STA130 tutorial prepared by Kaixuan (Bryan) Hu.
 
 Course Website: https://ntaback.github.io/UofT_STA130/
+
+<a href="https://ntaback.github.io/UofT_STA130/">https://ntaback.github.io/UofT_STA130/</a>
