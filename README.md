@@ -26,3 +26,8 @@ Course Website: <a href="https://ntaback.github.io/UofT_STA130/">https://ntaback
 **Tutorial 10**: 
 - <a href="https://github.com/kaixuan0623/STA130-Weekly-Tutorial-Slides/blob/master/sta130fall2018w10tut.pdf">Slides</a>
 
+
+**Winter 2019 - STA130 - UofT**
+
+**Tutorial 1**:
+- <a href="https://github.com/kaixuan0623/STA130-Weekly-Tutorial-Slides/blob/master/sta130winter2019w1tut.pdf">Slides</a>
