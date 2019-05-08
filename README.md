@@ -1,4 +1,4 @@
-# Fall 2018/Winter 2019: STA130 Weekly Tutorial Slides
+# Fall 2018/Winter 2019: STA130 Tutorial Slides
 Weekly slides for STA130 tutorial prepared by Kaixuan (Bryan) Hu.
 
 They can be accessed as a simple website <a href="https://kaixuan0623.github.io/STA130-Weekly-Tutorial-Slides/">here</a>.
