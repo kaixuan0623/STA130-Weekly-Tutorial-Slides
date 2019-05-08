@@ -5,6 +5,8 @@ They can be accessed as a simple website <a href="https://kaixuan0623.github.io/
 
 ## Fall 2018
 
+Slides can be found <a href="https://kaixuan0623.github.io/STA130-Weekly-Tutorial-Slides/FALL2018STA130.html/">here</a>.
+
 Course Website: <a href="https://ntaback.github.io/UofT_STA130/">https://ntaback.github.io/UofT_STA130/</a>
 
 **Tutorial 1**:
