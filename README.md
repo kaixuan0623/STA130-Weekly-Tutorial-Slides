@@ -16,7 +16,3 @@ Slides can be found <a href="https://kaixuan0623.github.io/STA130-Weekly-Tutoria
 
 Slides can be found <a href="https://kaixuan0623.github.io/STA130-Weekly-Tutorial-Slides/STA130F19.html">here</a>.
 
-## Winter 2020
-
-Slides can be found <a href="#">here</a>.
-
